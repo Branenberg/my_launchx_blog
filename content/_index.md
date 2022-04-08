@@ -10,9 +10,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
--Aprender aún más sobre el desarrollo
--Desarrollar más hábilidades 
--Aplicar los contenidos de valor que nos proporciona nuestro MC, como lo son los buenos hábitos
+- Aprender aún más sobre el desarrollo
+- Desarrollar más hábilidades 
+- Aplicar los contenidos de valor que nos proporciona nuestro MC, como lo son los buenos hábitos
 
 
 🚀
